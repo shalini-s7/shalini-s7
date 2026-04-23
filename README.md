@@ -49,7 +49,9 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
 ![Cursor](https://img.shields.io/badge/Cursor-purple?style=for-the-badge)
 ![Antigravity](https://img.shields.io/badge/Antigravity-orange?style=for-the-badge)
+
 ---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -66,6 +68,7 @@
 </p>
 
 ---
+
 ## 💡 Mindset
 
 <p align="center">
