@@ -10,15 +10,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shalini-s79/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   
   <a href="https://github.com/shalini-s7">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
   
   <a href="https://leetcode.com/shalini79/">
-    <img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
   </a>
 </p>
 
@@ -58,7 +58,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalini-s7&layout=compact&theme=tokyonight" />
 </p>
 
-
+![GitHub Calendar](https://ghchart.rshah.org/YOUR_USERNAME)
 ## 🔥 Contribution Streak
 
 <p align="center">
@@ -71,7 +71,7 @@
 
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=shalini-s7&theme=tokyo-night)
 
-![snake gif](https://github.com/shalini-s7/shalini-s7/blob/output/github-contribution-grid-snake.svg)
+
 ## 🚀 Featured Projects
 
 - 💡 Online Code Practice Platform  
