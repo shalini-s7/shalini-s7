@@ -1,10 +1,11 @@
 ## Hi there 👋
 <h1 align="center"> I'm Shalini</h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer | AI Engineer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Engineer;DSA+Learner;python+developer;UI/UX;">
-</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines==Full+Stack+Developer;AI+Engineer;DSA+Learner;python+developer;UI/UX;)](https://git.io/typing-svg)
+
+</div>
 
 ## 🌐 Connect With Me
 
@@ -25,11 +26,15 @@
 ---
 ## 🧠 About Me
 
-- 🎓 CSE Student 
-- 💻 Strong in Python, ui/ux, Data Analysis
-- 🌱 Currently learning: DSA + Backend + AI
-- 🎯 Goal: Become Full Stack + AI Engineer
+<div align="center">
 
+🎓 CSE Student  
+💻 Python • UI/UX • Web Development  
+📚 Learning DSA • Backend • AI  
+🚀 Building & improving every day  
+🎯 Full Stack + AI Engineer  
+
+</div>
 ---
 
 ## ⚡ Tech Stack
@@ -54,15 +59,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalini-s7&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalini-s7&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shalini-s7&show_icons=true&theme=catppuccin" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalini-s7&layout=compact&theme=catppucin" />
 </p>
 
-![GitHub Calendar](https://ghchart.rshah.org/shalini-s7)
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalini-s7&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalini-s7&theme=catppucin" />
 </p>
 
 ---
@@ -71,12 +75,6 @@
 
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=shalini-s7&theme=tokyo-night)
 
-
-## 🚀 Featured Projects
-
-- 💡 Online Code Practice Platform  
-- 🤖 AI Mini Projects (coming soon)  
-- 🌐 Full Stack Web Apps (in progress)
 
 
 ---
