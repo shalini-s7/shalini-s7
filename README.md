@@ -1,12 +1,11 @@
 ## Hi there 👋
-<h1 align="center"> I'm Shalini</h1>
+<h1 align="center">Hi 👋, I'm Shalini</h1>
+<h3 align="center">🚀 Aspiring Full Stack Developer | AI Engineer</h3>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Full+Stack+Developer;AI+Engineer;DSA+Learner;python+developer;UI/UX;)](https://git.io/typing-svg)
-
-</div>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Engineer;DSA+Learner;ui/ux;python+developer">
+</p>
+---
 <div>
   <div align="center">
   <a href="https://www.linkedin.com/in/shalini-s79/">
@@ -23,14 +22,15 @@
  </div>
 </div>
 
+---
 ## 🧠 About Me
 
-name: Shalini
-role: Full Stack Developer | AI Enthusiast
-education: B.E CSE
-skills: [Python, UI/UX, Web Development]
-learning: [DSA, Backend, AI]
-goal: Become a Full Stack + AI Engineer
+- 🎓 CSE Student 
+- 💻 Strong in Python, ui/ux, Data Analysis
+- 🌱 Currently learning: DSA + Backend + AI
+- 🎯 Goal: Become Full Stack + AI Engineer
+
+---
 
 ## ⚡ Tech Stack
 
@@ -52,10 +52,9 @@ goal: Become a Full Stack + AI Engineer
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalini-s7&show_icons=true&theme=tokyo-night" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalini-s7&layout=compact&theme=tokyo-night" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shalini-s7&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalini-s7&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🔥 Contribution Streak
@@ -75,4 +74,3 @@ goal: Become a Full Stack + AI Engineer
 ---
 
 ⭐ *“Consistent learning + building = unstoppable growth”*
-
