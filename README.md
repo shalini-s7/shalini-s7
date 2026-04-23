@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Engineer;DSA+Learner;ui/ux;python+developer">
 </p>
----
+
 <div>
   <div align="center">
   <a href="https://www.linkedin.com/in/shalini-s79/">
@@ -50,27 +50,18 @@
 ![Cursor](https://img.shields.io/badge/Cursor-purple?style=for-the-badge)
 ![Antigravity](https://img.shields.io/badge/Antigravity-orange?style=for-the-badge)
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalini-s7&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalini-s7&layout=compact&theme=tokyonight" />
-</p>
-
-## 🔥 Contribution Streak
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalini-s7&theme=catppucin" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shalini-s7&show_icons=true&theme=transparent" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalini-s7&layout=compact&theme=transparent" width="48%" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalini-s7&theme=transparent" width="70%" />
+</p>
 
-## 📈 Activity Graph
-
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=shalini-s7&theme=tokyo-night)
-
-
-
----
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shalini-s7&theme=react-dark" />
+</p>
 ⭐ *“Consistent learning + building = unstoppable growth”*
