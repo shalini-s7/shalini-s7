@@ -7,7 +7,8 @@
 
 </div>
 
-<p align="center">
+<div>
+  <div align="center">
   <a href="https://www.linkedin.com/in/shalini-s79/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
@@ -19,19 +20,17 @@
   <a href="https://leetcode.com/shalini79/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
   </a>
-</p>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ </div>
+</div>
+
 ## 🧠 About Me
 
-<div align="center">
-
-🎓 CSE Student  
-💻 Python • UI/UX • Web Development  
-📚 Learning DSA • Backend • AI  
-🚀 Building & improving every day  
-🎯 Full Stack + AI Engineer  
-
-</div>
+name: Shalini
+role: Full Stack Developer | AI Enthusiast
+education: B.E CSE
+skills: [Python, UI/UX, Web Development]
+learning: [DSA, Backend, AI]
+goal: Become a Full Stack + AI Engineer
 
 ## ⚡ Tech Stack
 
@@ -55,8 +54,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalini-s7&show_icons=true&theme=catppuccin" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalini-s7&layout=compact&theme=catppucin" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shalini-s7&show_icons=true&theme=tokyo-night" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalini-s7&layout=compact&theme=tokyo-night" />
 </p>
 
 ## 🔥 Contribution Streak
