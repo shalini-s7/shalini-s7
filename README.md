@@ -3,11 +3,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines==Full+Stack+Developer;AI+Engineer;DSA+Learner;python+developer;UI/UX;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Full+Stack+Developer;AI+Engineer;DSA+Learner;python+developer;UI/UX;)](https://git.io/typing-svg)
 
 </div>
-
-## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shalini-s79/">
@@ -22,8 +20,7 @@
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
   </a>
 </p>
-
----
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🧠 About Me
 
 <div align="center">
@@ -35,7 +32,6 @@
 🎯 Full Stack + AI Engineer  
 
 </div>
----
 
 ## ⚡ Tech Stack
 
