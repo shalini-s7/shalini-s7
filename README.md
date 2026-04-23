@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Aspiring Full Stack Developer | AI Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Engineer;DSA+Learner">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Engineer;DSA+Learner;python+developer;UI/UX;">
 </p>
 
 ## 🌐 Connect With Me
@@ -58,7 +58,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalini-s7&layout=compact&theme=tokyonight" />
 </p>
 
-![GitHub Calendar](https://ghchart.rshah.org/YOUR_USERNAME)
+![GitHub Calendar](https://ghchart.rshah.org/shalini-s7)
 ## 🔥 Contribution Streak
 
 <p align="center">
