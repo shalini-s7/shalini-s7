@@ -71,4 +71,3 @@
 
 
 ---
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shalini-s7&show_icons=true&theme=radical&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=shalini-s7&theme=radical&hide_border=true" /> </p>
