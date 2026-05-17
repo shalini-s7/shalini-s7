@@ -72,5 +72,5 @@
 
 ---
 <p align="center">
-  <img src="https://ghchart.rshah.org/shalini-s7" alt="GitHub Contribution Chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shalini-s7&theme=github-compact&hide_border=true" />
 </p>
