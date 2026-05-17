@@ -71,9 +71,6 @@
 
 
 ---
-
-## 💡 Mindset
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Consistent+learning+%2B+building+%3D+unstoppable+growth;Build+projects+every+day;Discipline+beats+motivation;Code.+Learn.+Repeat.&pause=1000&speed=50" />
+  <img src="https://ghchart.rshah.org/shalini-s7" alt="GitHub Contribution Chart" />
 </p>
