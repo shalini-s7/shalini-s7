@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
   
-  <a href="https://leetcode.com/shalini79/">
+  <a href="https://leetcode.com/u/shalini-s7/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
   </a>
  </div>
