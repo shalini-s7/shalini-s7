@@ -51,6 +51,10 @@
 ![Antigravity](https://img.shields.io/badge/Antigravity-orange?style=for-the-badge)
 
 ---
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shalini-s7&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
 
 <p align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shalini-s7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -62,7 +66,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shalini-s7&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shalini-s7&theme=nord_dark">
 </p>
 
 
