@@ -51,18 +51,19 @@
 ![Antigravity](https://img.shields.io/badge/Antigravity-orange?style=for-the-badge)
 
 ---
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Java+Developer;DSA+Learner;Backend+Enthusiast" />
+</p>
 
-## 🚀 GitHub Stats
+<p align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=shalini-s7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="150em" src="https://streak-stats.demolab.com?user=shalini-s7&theme=tokyonight&hide_border=true"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=shalini-s7&theme=tokyonight&show_icons=true)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shalini-s7&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
+</p>
 
-![](https://streak-stats.demolab.com?user=shalini-s7&theme=tokyonight)
-
----
-
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=shalini-s7&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)
 
 ---
 
