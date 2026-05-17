@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shalini-s7&theme=nord_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shalini-s7&theme=tokyonight">
 </p>
 
 
