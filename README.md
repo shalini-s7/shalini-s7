@@ -51,9 +51,6 @@
 ![Antigravity](https://img.shields.io/badge/Antigravity-orange?style=for-the-badge)
 
 ---
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Java+Developer;DSA+Learner;Backend+Enthusiast" />
-</p>
 
 <p align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shalini-s7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -64,7 +61,9 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shalini-s7&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
 </p>
 
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 ---
 
 ## 💡 Mindset
