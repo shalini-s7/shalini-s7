@@ -26,7 +26,7 @@
 ## 🧠 About Me
 
 - 🎓 CSE Student 
-- 💻 Strong in Python, ui/ux, Data Analysis
+- 💻 Strong in Python, UI/UX, Data Analysis
 - 🌱 Currently learning: DSA + Backend + AI
 - 🎯 Goal: Become Full Stack + AI Engineer
 
@@ -51,9 +51,6 @@
 ![Antigravity](https://img.shields.io/badge/Antigravity-orange?style=for-the-badge)
 
 ---
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shalini-s7&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
 
 
 <p align="center">
