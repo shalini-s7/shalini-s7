@@ -37,7 +37,7 @@
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![C](https://img.shields.io/badge/C-purple?style=for-the-badge&logo=C)
+![C](https://img.shields.io/badge/C-purple?style=for-the-badge&logo=Cprogramming)
 
 
 ### 🌐 Web Development
