@@ -56,10 +56,6 @@
 ---
 
 
-<p align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=shalini-s7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="150em" src="https://streak-stats.demolab.com?user=shalini-s7&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shalini-s7&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
