@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Engineer;DSA+Learner;ui/ux;python+developer">
 </p>
 
+
 <div>
   <div align="center">
   <a href="https://www.linkedin.com/in/shalini-s79/">
