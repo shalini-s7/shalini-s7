@@ -48,6 +48,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-purple?style=for-the-badge&logo=React)
 
+### 🤖 AI & Automation
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-00C853?style=for-the-badge&logo=databricks&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
 ### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-green?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-pink?style=for-the-badge&logo=github)
