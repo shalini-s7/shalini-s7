@@ -68,9 +68,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shalini-s7&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shalini-s7&theme=tokyonight">
-</p>
 
 
 ---
