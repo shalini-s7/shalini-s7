@@ -28,9 +28,9 @@
 ## 🧠 About Me
 
 - 🎓 CSE Student 
-- 💻 Strong in Python, UI/UX, Data Analysis
+- 💻 Strong in Python, UI/UX, frontend
 - 🌱 Currently learning: DSA + Backend + AI
-- 🎯 Goal: Become Full Stack + AI Engineer
+- 🎯 Goal: Become Full Stack developer
 
 ---
 
