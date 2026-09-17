@@ -70,7 +70,7 @@
 
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shalini-s7&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/shalini-s7/shalini-s7/output/github-snake.svg"/>
 </p>
 
 
