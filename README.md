@@ -86,40 +86,6 @@ A simple note-taking application built with React. This project was developed as
 
 ---
 
-## 📊 GitHub Contributions
-
----
-
-## 📊 GitHub Contributions
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/shalini-s7/shalini-s7/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/shalini-s7/shalini-s7/output/github-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/shalini-s7/shalini-s7/output/github-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalini-s7&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalini-s7&layout=compact&theme=tokyonight" height="170">
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
