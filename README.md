@@ -88,6 +88,10 @@ A simple note-taking application built with React. This project was developed as
 
 ## 📊 GitHub Contributions
 
+---
+
+## 📊 GitHub Contributions
+
 <p align="center">
   <picture>
     <source
@@ -99,8 +103,8 @@ A simple note-taking application built with React. This project was developed as
       srcset="https://raw.githubusercontent.com/shalini-s7/shalini-s7/output/github-snake.svg"
     />
     <img
-      alt="GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/shalini-s7/shalini-s7/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
     />
   </picture>
 </p>
