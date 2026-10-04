@@ -27,6 +27,7 @@
 
 - 🎓 CSE Student
 - 💻 Strong in Python, UI/UX and Frontend Development
+     and backend development 
 - 🌱 Currently learning DSA, Backend Development and AI
 - 🎯 Goal: Become a Full Stack Developer and AI Engineer
 
